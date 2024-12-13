@@ -57,4 +57,4 @@ The notebook outputs the accuracy of each model and visualizes predictions. The 
 3. Tune hyperparameters for better accuracy.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
